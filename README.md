@@ -1,2 +1,13 @@
 # Amazon_Clone
-Created with CodeSandbox
+
+Cloned the biggest Ecommerce website .
+
+
+
+Tech used :-
+
+### HTML 
+### CSS
+### JavaScript
+### React Js
+
